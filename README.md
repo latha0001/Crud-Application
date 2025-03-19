@@ -1,6 +1,12 @@
 # Full-Stack CRUD Application
 
 A simple full-stack web application that allows users to sign up, log in, and manage posts with CRUD (Create, Read, Update, Delete) operations.
+![Screenshot 2025-03-19 162715](https://github.com/user-attachments/assets/79241e30-f66a-4a52-ba74-6482a36e1147)
+![Screenshot 2025-03-19 162726](https://github.com/user-attachments/assets/d3118565-bbf3-46fd-a6ab-2405a8e48aa9)
+![Screenshot 2025-03-19 162742](https://github.com/user-attachments/assets/21aa1bc4-549a-49c4-a8cc-28860a8b3b17)
+![Screenshot 2025-03-19 162755](https://github.com/user-attachments/assets/c04b7bc8-c307-4f8e-b069-817554334e6e)
+![Screenshot 2025-03-19 163238](https://github.com/user-attachments/assets/3f6a9fb7-1b86-4eb5-8bc9-df0ae7dc25bf)
+
 
 ## Features
 
